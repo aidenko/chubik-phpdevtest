@@ -9,7 +9,7 @@
             "email": "kolombetam@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.0",
         "nategood/httpful": "^0.2.20"
