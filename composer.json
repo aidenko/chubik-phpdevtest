@@ -3,6 +3,7 @@
     "description": "this is a test task",
     "type": "library",
     "license": "MIT",
+    "version": "0.2.1",
     "authors": [
         {
             "name": "Artem Kolombet",
